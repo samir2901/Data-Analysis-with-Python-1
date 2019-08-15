@@ -10,7 +10,7 @@ Finally, we make consider estimator function for sales (y_p) as a function of te
 log of rain(x2) and number of flyers distributed.
 
 Therefore, the equation can be written as y_p = b0 + b1*x1 + b2*x2 + b3*x3
-
+Machine learning scikit learn.
 '''
 
 import pandas as pd 
